@@ -1,3 +1,4 @@
+.idea
 test/*.log
 test/fixtures/*.json
 test/fixtures/logs/*.log*
